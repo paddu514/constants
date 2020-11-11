@@ -1,0 +1,19 @@
+package main
+
+import (
+	"fmt"
+)
+cont (
+   a = iota
+   b
+   c
+)
+const (
+   b=iota
+)
+func main() {
+	fmt.printf("%v/n",a)
+	fmt.printf("%v/n",b)
+	fmt.prinf("%v/n",c)
+	fmt.printf("%v/n",a2)
+}
